@@ -8,3 +8,5 @@ This project demonstrates how RL techniques can be applied to complex, partially
 - **Scenario**: Health Gathering Supreme (agent must navigate the map and collect health packs while avoiding acid damage)
 - **Observation**: RGB frames (first-person camera)
 - **Action Space**: Discrete (movement, turning, strafing)
+
+![RL Agent Playing Doom](./media/demo.gif)
