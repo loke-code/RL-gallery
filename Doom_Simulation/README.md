@@ -9,4 +9,4 @@ This project demonstrates how RL techniques can be applied to complex, partially
 - **Observation**: RGB frames (first-person camera)
 - **Action Space**: Discrete (movement, turning, strafing)
   
-![RL Agent Playing Doom](Doom_Simulation/replay-gif.gif)
+![RL Agent Playing Doom](replay-gif.gif)
